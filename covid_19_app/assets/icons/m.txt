@@ -1,0 +1,21 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is AA49-E035
+
+ Directory of C:\Users\320053561\AndroidStudioProjects\flutter\covid_19_app\assets\icons
+
+2020-06-03  03:22 PM    <DIR>          .
+2020-06-03  03:22 PM    <DIR>          ..
+2020-06-01  10:24 PM             5,718 clean_disinfect.svg
+2020-06-01  10:24 PM             9,757 hand_wash.svg
+2020-06-01  10:24 PM               257 increase.svg
+2020-06-03  03:22 PM                 0 m.txt
+2020-06-01  10:24 PM           170,762 map.svg
+2020-06-01  10:24 PM               926 menu.svg
+2020-06-01  10:24 PM               269 more.svg
+2020-06-01  10:24 PM            31,250 nurse.svg
+2020-06-01  10:24 PM               779 running.svg
+2020-06-01  10:24 PM               879 search.svg
+2020-06-01  10:24 PM            11,877 use_mask.svg
+2020-06-01  10:24 PM             8,008 virus.svg
+              12 File(s)        240,482 bytes
+               2 Dir(s)  23,861,923,840 bytes free
